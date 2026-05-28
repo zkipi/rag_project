@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-google-genai
+chromadb
+jupyter
+notebook
