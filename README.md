@@ -9,7 +9,7 @@ Syftet med projektet är att visa hur egen data kan användas som kontext till e
 
 ## Dataset
 
-Vi använder ett Netflix-dataset från Kaggle. Datasetet innehåller bland annat:
+Jag använder ett Netflix-dataset från Kaggle. Datasetet innehåller bland annat:
 
 - Title
 - Category
